@@ -2,7 +2,7 @@
   {
     "network": "facebook",
     "revision_date": "2021.03.05",
-    "home": "https://developers.facebook.com/docs/SKAdNetwork/",
+    "source": "https://developers.facebook.com/docs/SKAdNetwork/",
     "ids": [
       "v9wttpbfk9.skadnetwork",
       "n38lu8286q.skadnetwork"
@@ -11,7 +11,7 @@
   {
     "network": "admob",
     "revision_date": "2021.03.05",
-    "home": "https://developers.google.com/admob/ios/ios14",
+    "source": "https://developers.google.com/admob/ios/ios14",
     "ids": [
       "cstr6suwn9.skadnetwork"
     ]
@@ -19,7 +19,7 @@
   {
     "network": "bytedance",
     "revision_date": "2021.03.05",
-    "home": "https://github.com/bytedance/Bytedance-UnionAD/blob/master/Demo/DomesticDemo/BUDemo/DevInfo.plist",
+    "source": "https://github.com/bytedance/Bytedance-UnionAD/blob/master/Demo/DomesticDemo/BUDemo/DevInfo.plist",
     "ids": [
       "238da6jt44.skadnetwork",
       "22mmun2rn5.skadnetwork"
@@ -28,7 +28,7 @@
   {
     "network": "ironsource",
     "revision_date": "2021.03.05",
-    "home": "https://developers.ironhome.com/ironsource-mobile/unity/ironsource-sdk7-update-guide/",
+    "source": "https://developers.ironsrc.com/ironsource-mobile/ios/ios-sdk/#step-2",
     "ids": [
       "SU67R6K2V3.skadnetwork"
     ]
@@ -36,7 +36,7 @@
   {
     "network": "vungle",
     "revision_date": "2021.03.05",
-    "home": "https://support.vungle.com/hc/en-us/articles/360047716972-Prepare-for-iOS-14",
+    "source": "https://support.vungle.com/hc/en-us/articles/360002925791",
     "ids": [
       "GTA9LK7P23.skadnetwork",
       "YDX93A7ASS.skadnetwork",
@@ -46,7 +46,7 @@
   {
     "network": "fyber",
     "revision_date": "2021.03.05",
-    "home": "https://github.com/fyber-engineering/SKAdNetworks/blob/master/docs/index.json",
+    "source": "https://github.com/fyber-engineering/SKAdNetworks/blob/master/docs/index.json",
     "ids": [
       "4FZDC2EVR5.skadnetwork",
       "4PFYVQ9L8R.skadnetwork",
@@ -84,7 +84,7 @@
   {
     "network": "unityads",
     "revision_date": "2021.03.05",
-    "home": "https://unityads.unity3d.com/help/ios/skadnetwork-ids",
+    "source": "https://unityads.unity3d.com/help/ios/skadnetwork-ids",
     "ids": [
       "4DZT52R2T5.skadnetwork",
       "bvpn9ufa9b.skadnetwork",
@@ -122,7 +122,7 @@
   {
     "network": "applovin",
     "revision_date": "2021.03.05",
-    "home": "https://dash.applovin.com/o/account#skadnetwork_info",
+    "source": "https://dash.applovin.com/o/account#skadnetwork_info",
     "ids": [
       "ludvb6z3bs.skadnetwork",
       "4FZDC2EVR5.skadnetwork",
@@ -148,7 +148,7 @@
   {
     "network": "mintegral",
     "revision_date": "2021.03.05",
-    "home": "http://cdn-adn.rayjump.com/cdn-adn/v2/markdown_v2/index.html?file=sdk-m_sdk-ios&lang=en#ios14publisherguide",
+    "source": "http://cdn-adn.rayjump.com/cdn-adn/v2/markdown_v2/index.html?file=sdk-m_sdk-ios&lang=en#ios14publisherguide",
     "ids": [
       "KBD757YWX3.skadnetwork",
       "wg4vff78zm.skadnetwork",
@@ -174,7 +174,7 @@
   {
     "network": "adcolony",
     "revision_date": "2021.03.05",
-    "home": "https://github.com/AdColony/AdColony-iOS-SDK/blob/master/AdNetworks.csv",
+    "source": "https://github.com/AdColony/AdColony-iOS-SDK/blob/master/AdNetworks.csv",
     "ids": [
       "T38B2KH725.skadnetwork",
       "PPXM28T8AP.skadnetwork",
