@@ -5,5 +5,4 @@ To convert `ids` to `xml` execute
 ruby bin/convert.rb
 ```
 
-To insert xml-formatted ids follow Apple's guide:
-https://developer.apple.com/documentation/storekit/skadnetwork/configuring_the_participating_apps
+To add xml-formatted ids to you iOS project follow [Apple's guide](https://developer.apple.com/documentation/storekit/skadnetwork/configuring_the_participating_apps)
