@@ -1,0 +1,206 @@
+[
+  {
+    "network": "facebook",
+    "revision_date": "2021.03.05",
+    "home": "https://developers.facebook.com/docs/SKAdNetwork/",
+    "ids": [
+      "v9wttpbfk9.skadnetwork",
+      "n38lu8286q.skadnetwork"
+    ]
+  },
+  {
+    "network": "admob",
+    "revision_date": "2021.03.05",
+    "home": "https://developers.google.com/admob/ios/ios14",
+    "ids": [
+      "cstr6suwn9.skadnetwork"
+    ]
+  },
+  {
+    "network": "bytedance",
+    "revision_date": "2021.03.05",
+    "home": "https://github.com/bytedance/Bytedance-UnionAD/blob/master/Demo/DomesticDemo/BUDemo/DevInfo.plist",
+    "ids": [
+      "238da6jt44.skadnetwork",
+      "22mmun2rn5.skadnetwork"
+    ]
+  },
+  {
+    "network": "ironsource",
+    "revision_date": "2021.03.05",
+    "home": "https://developers.ironhome.com/ironsource-mobile/unity/ironsource-sdk7-update-guide/",
+    "ids": [
+      "SU67R6K2V3.skadnetwork"
+    ]
+  },
+  {
+    "network": "vungle",
+    "revision_date": "2021.03.05",
+    "home": "https://support.vungle.com/hc/en-us/articles/360047716972-Prepare-for-iOS-14",
+    "ids": [
+      "GTA9LK7P23.skadnetwork",
+      "YDX93A7ASS.skadnetwork",
+      "3RD42EKR43.skadnetwork"
+    ]
+  },
+  {
+    "network": "fyber",
+    "revision_date": "2021.03.05",
+    "home": "https://github.com/fyber-engineering/SKAdNetworks/blob/master/docs/index.json",
+    "ids": [
+      "4FZDC2EVR5.skadnetwork",
+      "4PFYVQ9L8R.skadnetwork",
+      "V72QYCH5UU.skadnetwork",
+      "c6k4g5qg8m.skadnetwork",
+      "252b5q8x7y.skadnetwork",
+      "F38H382JLK.skadnetwork",
+      "hs6bdukanm.skadnetwork",
+      "9RD848Q2BZ.skadnetwork",
+      "prcb7njmu6.skadnetwork",
+      "M8DBW4SV7C.skadnetwork",
+      "WZMMZ9FP6W.skadnetwork",
+      "YCLNXRL5PM.skadnetwork",
+      "t38b2kh725.skadnetwork",
+      "7UG5ZH24HU.skadnetwork",
+      "KBD757YWX3.skadnetwork",
+      "9T245VHMPL.skadnetwork",
+      "TL55SBB4FM.skadnetwork",
+      "8s468mfl3y.skadnetwork",
+      "4468km3ulz.skadnetwork",
+      "2U9PT9HC89.skadnetwork",
+      "av6w8kgt66.skadnetwork",
+      "KLF5C3L5U5.skadnetwork",
+      "DZG6XY7PWJ.skadnetwork",
+      "y45688jllp.skadnetwork",
+      "Hdw39hrw9y.skadnetwork",
+      "ppxm28t8ap.skadnetwork",
+      "f73kdq92p3.skadnetwork",
+      "5l3tpt7t6e.skadnetwork",
+      "uw77j35x4d.skadnetwork",
+      "mlmmfzh3r3.skadnetwork",
+      "488r3q3dtq.skadnetwork"
+    ]
+  },
+  {
+    "network": "unityads",
+    "revision_date": "2021.03.05",
+    "home": "https://unityads.unity3d.com/help/ios/skadnetwork-ids",
+    "ids": [
+      "4DZT52R2T5.skadnetwork",
+      "bvpn9ufa9b.skadnetwork",
+      "WZMMZ9FP6W.skadnetwork",
+      "4FZDC2EVR5.skadnetwork",
+      "7UG5ZH24HU.skadnetwork",
+      "GLQZH8VGBY.skadnetwork",
+      "M8DBW4SV7C.skadnetwork",
+      "9T245VHMPL.skadnetwork",
+      "F38H382JLK.skadnetwork",
+      "av6w8kgt66.skadnetwork",
+      "4PFYVQ9L8R.skadnetwork",
+      "424M5254LK.skadnetwork",
+      "c6k4g5qg8m.skadnetwork",
+      "t38b2kh725.skadnetwork",
+      "ppxm28t8ap.skadnetwork",
+      "prcb7njmu6.skadnetwork",
+      "f73kdq92p3.skadnetwork",
+      "238da6jt44.skadnetwork",
+      "22mmun2rn5.skadnetwork",
+      "KBD757YWX3.skadnetwork",
+      "hs6bdukanm.skadnetwork",
+      "9RD848Q2BZ.skadnetwork",
+      "TL55SBB4FM.skadnetwork",
+      "zmvfpc5aq8.skadnetwork",
+      "3sh42y64q3.skadnetwork",
+      "lr83yxwka7.skadnetwork",
+      "5lm9lj6jb7.skadnetwork",
+      "v79kvwwj4g.skadnetwork",
+      "wg4vff78zm.skadnetwork",
+      "44jx6755aq.skadnetwork",
+      "44n7hlldy6.skadnetwork"
+    ]
+  },
+  {
+    "network": "applovin",
+    "revision_date": "2021.03.05",
+    "home": "https://dash.applovin.com/o/account#skadnetwork_info",
+    "ids": [
+      "ludvb6z3bs.skadnetwork",
+      "4FZDC2EVR5.skadnetwork",
+      "2U9PT9HC89.skadnetwork",
+      "WZMMZ9FP6W.skadnetwork",
+      "t38b2kh725.skadnetwork",
+      "9T245VHMPL.skadnetwork",
+      "7UG5ZH24HU.skadnetwork",
+      "M8DBW4SV7C.skadnetwork",
+      "mlmmfzh3r3.skadnetwork",
+      "TL55SBB4FM.skadnetwork",
+      "KBD757YWX3.skadnetwork",
+      "F38H382JLK.skadnetwork",
+      "YCLNXRL5PM.skadnetwork",
+      "hs6bdukanm.skadnetwork",
+      "av6w8kgt66.skadnetwork",
+      "8s468mfl3y.skadnetwork",
+      "prcb7njmu6.skadnetwork",
+      "4468km3ulz.skadnetwork",
+      "9RD848Q2BZ.skadnetwork"
+    ]
+  },
+  {
+    "network": "mintegral",
+    "revision_date": "2021.03.05",
+    "home": "http://cdn-adn.rayjump.com/cdn-adn/v2/markdown_v2/index.html?file=sdk-m_sdk-ios&lang=en#ios14publisherguide",
+    "ids": [
+      "KBD757YWX3.skadnetwork",
+      "wg4vff78zm.skadnetwork",
+      "737z793b9f.skadnetwork",
+      "ydx93a7ass.skadnetwork",
+      "prcb7njmu6.skadnetwork",
+      "7UG5ZH24HU.skadnetwork",
+      "44jx6755aq.skadnetwork",
+      "2U9PT9HC89.skadnetwork",
+      "W9Q455WK68.skadnetwork",
+      "YCLNXRL5PM.skadnetwork",
+      "TL55SBB4FM.skadnetwork",
+      "8s468mfl3y.skadnetwork",
+      "GLQZH8VGBY.skadnetwork",
+      "c6k4g5qg8m.skadnetwork",
+      "mlmmfzh3r3.skadnetwork",
+      "4PFYVQ9L8R.skadnetwork",
+      "av6w8kgt66.skadnetwork",
+      "6xzpu9s2p8.skadnetwork",
+      "hs6bdukanm.skadnetwork"
+    ]
+  },
+  {
+    "network": "adcolony",
+    "revision_date": "2021.03.05",
+    "home": "https://github.com/AdColony/AdColony-iOS-SDK/blob/master/AdNetworks.csv",
+    "ids": [
+      "T38B2KH725.skadnetwork",
+      "PPXM28T8AP.skadnetwork",
+      "EJVT5QM6AK.skadnetwork",
+      "MLMMFZH3R3.skadnetwork",
+      "KLF5C3L5U5.skadnetwork",
+      "YCLNXRL5PM.skadnetwork",
+      "4PFYVQ9L8R.skadnetwork",
+      "3RD42EKR43.skadnetwork",
+      "PRCB7NJMU6.skadnetwork",
+      "HS6BDUKANM.skadnetwork",
+      "C6K4G5QG8M.skadnetwork",
+      "9T245VHMPL.skadnetwork",
+      "9RD848Q2BZ.skadnetwork",
+      "8S468MFL3Y.skadnetwork",
+      "TL55SBB4FM.skadnetwork",
+      "7UG5ZH24HU.skadnetwork",
+      "4FZDC2EVR5.skadnetwork",
+      "4468KM3ULZ.skadnetwork",
+      "2U9PT9HC89.skadnetwork",
+      "V72QYCH5UU.skadnetwork",
+      "M8DBW4SV7C.skadnetwork",
+      "7RZ58N8NTL.skadnetwork",
+      "5LM9LJ6JB7.skadnetwork",
+      "44JX6755AQ.skadnetwork",
+      "MTKV5XTK9E.skadnetwork"
+    ]
+  }
+]
