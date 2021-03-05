@@ -1,2 +1,3 @@
-# skadnetwork-ids
-All in one SKADNetwork ids. Easy to integrate
+# SKAdNetwork IDs
+
+All in one SKAdNetwork ids. Easy to integrate
