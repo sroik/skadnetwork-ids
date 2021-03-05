@@ -1,8 +1,15 @@
 # SKAdNetwork IDs
 
-To convert `ids` to `xml` execute 
+## Convert
+
+Remove unnecessary (or add required) networks in `bin/convert-conig.json`
+
+And then to convert `IDs` to `xml` format execute:
+
 ```bash
 ruby bin/convert.rb
 ```
 
-To add xml-formatted ids to you iOS project follow [Apple's guide](https://developer.apple.com/documentation/storekit/skadnetwork/configuring_the_participating_apps)
+## Setup iOS Project
+
+To add `xml`-formatted `IDs` to you iOS project follow [Apple's guide](https://developer.apple.com/documentation/storekit/skadnetwork/configuring_the_participating_apps)

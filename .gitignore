@@ -1,0 +1,17 @@
+# ruby
+/.bundle/
+/.yardoc
+/_yardoc/
+/coverage/
+/doc/
+/pkg/
+/spec/reports/
+/tmp/
+vendor/
+.gem
+.idea/
+.DS_Store
+*.gem
+
+# generated file
+skadnetwork-ids.xml
