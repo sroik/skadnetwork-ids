@@ -9,8 +9,6 @@ networks_file = File.open(networks_path).read
 required_names = JSON.parse(config_file)
 networks_json = JSON.parse(networks_file)
 
-required_names = ["facebook", "admob", "bytedance"]
-
 required_networks = networks_json.filter do |network| 
   required_names.include?(network['network'])
 end
